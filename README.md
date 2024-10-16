@@ -5,4 +5,5 @@
 
 ## How to Use
 
-> host the index.html and style.css files and then access the webpage
+> Host the index.html and style.css files and then access the webpage.
+> If you would like to test out a different object file, you must edit the src of the model-viewer element located on line 9 of the index.html file.
