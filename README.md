@@ -1,8 +1,8 @@
 # How to Embed 3D Models in HTML Using \<model-viewer\>
 
-- requires a .glb or .gltf file
-- uses the open source <model-viewer> web component
+- requires a .glb or .gltf 3D object file
+- uses the open source \<model-viewer\> web component
 
-## How to use
+## How to Use
 
-> host the index.html and style.css files and access the webpage
+> host the index.html and style.css files and then access the webpage
