@@ -69,7 +69,7 @@ button {
     height: 40px;
 }
 
-p.instructions {
+div p.instructions {
     background-color: #392754;
 }
 
