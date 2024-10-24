@@ -71,7 +71,8 @@ button {
 
 div p.instructions {
     background-color: #392754;
-    border: 2px
+    border: 2px;
+    border-style: solid;
     border-color: #b7adbf;
 }
 
