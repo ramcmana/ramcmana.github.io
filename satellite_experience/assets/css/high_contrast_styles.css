@@ -70,6 +70,10 @@ button {
     height: 40px;
 }
 
-p {
+.left {
+    background-color: #392754;
+}
+
+.right {
     background-color: #392754;
 }
