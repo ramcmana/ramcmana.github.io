@@ -9,7 +9,7 @@ body {
 
 /* Main Page Button Styling */
 button {
-    background-color: #392754;
+    /*background-color: #392754;*/
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
@@ -68,4 +68,8 @@ button {
 .logo {
     width: 40px;
     height: 40px;
+}
+
+p {
+    background-color: #392754;
 }
