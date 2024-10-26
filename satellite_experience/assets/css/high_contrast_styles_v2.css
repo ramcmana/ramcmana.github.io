@@ -72,6 +72,11 @@ div p.instructions {
     background-color: #A34C5F;
     border: 2px;
     border-style: solid;
-    border-color: #50252F;
+    /*border-color: #50252F;*/
+    border-color: #4B1724;
+}
+
+h1 {
+    color: black;
 }
 
