@@ -8,7 +8,8 @@ document.addEventListener("DOMContentLoaded", function() {
     // Open the help page modal
     document.getElementById("openHelpButton").addEventListener("click", function() {
         var xhr = new XMLHttpRequest();
-        xhr.open("GET", "help_page.html", true);
+        //xhr.open("GET", "help_page.html", true);
+        xhr.open("GET", "help_page_v2.html", true);
         xhr.onreadystatechange = function() {
             if (xhr.readyState == 4 && xhr.status == 200) {
                 helpContent.innerHTML = xhr.responseText;
