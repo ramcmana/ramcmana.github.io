@@ -27,9 +27,7 @@ button {
 }
 
 .modal-content {
-    /*background-color: #20162F;*/
-    /*background-color: #231436;*/
-    background-color: #1F172E;
+    background-color: #FFFFFF;
     margin: 10% auto;
     padding: 20px;
     width: 80%;
@@ -71,12 +69,9 @@ button {
 }
 
 div p.instructions {
-    /*background-color: #392754;*/
-    /*background-color: #2E2443;*/
-    background-color: #312749;
+    background-color: #A34C5F;
     border: 2px;
     border-style: solid;
-    /*border-color: #b7adbf;*/
-    border-color: #ADA6B6;
+    border-color: #50252F;
 }
 
